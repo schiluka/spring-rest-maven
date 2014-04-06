@@ -3,7 +3,7 @@
 Simple REST kickstart prototype application using Spring, and Tomcat.
 
 # Requirements
-- Spring 3.0
+- Spring 3.1.0
 - Tomcat 7
 - JDK7
 
