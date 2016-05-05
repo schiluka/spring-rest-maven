@@ -2,6 +2,7 @@ package san.java.spring.rest;
 
 import org.codehaus.jackson.annotate.JsonProperty;
 
+
 public final class Employee {
 
     @JsonProperty

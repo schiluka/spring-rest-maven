@@ -1,0 +1,5 @@
+#Run with profile
+mvn spring-boot:run -Drun.profiles=local
+
+#Tomcat deployment
+https://spring.io/blog/2014/03/07/deploying-spring-boot-applications
