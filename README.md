@@ -1,6 +1,6 @@
 # Spring REST Application
 
-Simple REST kickstart prototype application using Spring, and Tomcat.
+Simple REST kickstart prototype application using Spring-Boot, and Tomcat.
 
 # Requirements
 - Spring 3.1.0
